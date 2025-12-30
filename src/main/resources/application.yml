@@ -1,0 +1,14 @@
+spring:
+  application:
+   name: railway-ticket-application
+
+server:
+  port: 9193
+
+
+telegram:
+  bot-token: "YOUR_BOT_TOKEN"
+  chat-id:
+    - "CHAT_ID_1"
+    - "CHAT_ID_2"
+#    - .....
